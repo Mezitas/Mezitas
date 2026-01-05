@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on videogames
 - 📫 How to reach me Juan Meza
 - 😄 Pronouns: He
-- ⚡ Fun fact: I don't know english and i'm little bad in maths
+- ⚡ Fun fact: I don't know english and play league of legends every day LOL
 
 <!---
 Mezitas/Mezitas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
